@@ -1,4 +1,4 @@
-<h3>this is a web api ecommerce website project</h3>
+<h3>this is a web api ecommerce project</h3>
 Endpoints
 Products
 •	List All Products
