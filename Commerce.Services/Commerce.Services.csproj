@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Commerce.Context\Commerce.Context.csproj" />
+    <ProjectReference Include="..\Commerce.Dtos\Commerce.Dtos.csproj" />
+    <ProjectReference Include="..\Commerce.Models\Commerce.Models.csproj" />
+    <ProjectReference Include="..\Commerce.Repositories\Commerce.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

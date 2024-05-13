@@ -1,0 +1,14 @@
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\bin\Debug\net8.0\Commerce.Models.deps.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\bin\Debug\net8.0\Commerce.Models.runtimeconfig.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\bin\Debug\net8.0\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\bin\Debug\net8.0\Commerce.Models.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\refint\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\Commerce.Models.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Models\obj\Debug\net8.0\ref\Commerce.Models.dll

@@ -1,0 +1,17 @@
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Repositories.deps.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Repositories.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Repositories.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Context.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Context.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\bin\Debug\net8.0\Commerce.Models.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.B974F403.Up2Date
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\refint\Commerce.Repositories.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\Commerce.Repositories.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Repositories\obj\Debug\net8.0\ref\Commerce.Repositories.dll

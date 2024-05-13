@@ -1,0 +1,15 @@
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\bin\Debug\net8.0\Commerce.Dtos.deps.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\bin\Debug\net8.0\Commerce.Dtos.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\bin\Debug\net8.0\Commerce.Dtos.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\refint\Commerce.Dtos.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\ref\Commerce.Dtos.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\bin\Debug\net8.0\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\bin\Debug\net8.0\Commerce.Models.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.Dtos.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Dtos\obj\Debug\net8.0\Commerce.3AD92D7F.Up2Date

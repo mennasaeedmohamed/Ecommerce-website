@@ -1,0 +1,17 @@
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Context.deps.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Context.runtimeconfig.json
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Context.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Context.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Models.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\bin\Debug\net8.0\Commerce.Models.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.csproj.AssemblyReference.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.AssemblyInfoInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.AssemblyInfo.cs
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.csproj.CoreCompileInputs.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.7CF2F775.Up2Date
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\refint\Commerce.Context.dll
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.pdb
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\Commerce.Context.genruntimeconfig.cache
+D:\iti courses\courses\asp.net\e-commerce project\Commerce\Commerce.Context\obj\Debug\net8.0\ref\Commerce.Context.dll
